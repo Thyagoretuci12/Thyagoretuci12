@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyagoretuci12&layout=compact&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thyagoretuci12&show_icons=true&theme=dracula)
 
-## Technologies i use 👇🏻
+## Skills 👇🏻
 
 <div style="display: inline_block, gap: 10px"></br>
     <img alt="html5" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
