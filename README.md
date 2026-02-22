@@ -17,12 +17,14 @@ I believe in consistency, discipline, and continuous improvement — both in cod
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Thyagoretuci12={Thyagoretuci12})
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyagoretuci12&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thyagoretuci12&show)
 
 ---
+-->
 
 ## 🛠 Tech Stack
 
